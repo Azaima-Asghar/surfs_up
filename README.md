@@ -4,9 +4,7 @@
 
 Holly has an idea to run "surf n' shake" shop serving surf boards and ice creams to locals and tourists. To continue to make the idea work, there will be need of real investors backing to get this off the ground. So after putting together a strong business plan, Holly reaches out to an investor W.Avy, who is famous for his love for surfing.
 
-Holly's first meeting with the investor goes really well, but he has one concern about the weather. He is extremely serious about this.
-
-W.Avy has asked Holly to run analytics on weather data set that he has from the very island where the plan is to open the surf shop, the beautiful Oahu in Hawaiian.
+Holly's first meeting with the investor goes really well, but he has one concern about the weather. He is extremely serious about this.W.Avy has asked Holly to run analytics on weather data set that he has from the very island where the plan is to open the surf shop, the beautiful Oahu in Hawaiian.
 
 ## *Resources*
 
