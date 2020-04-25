@@ -64,14 +64,13 @@ The 25th percentile precipitation for the months of June and December is 0. The 
 
 The 75th percentile precipitation for the month of June is 0.12 and for December the 75th percentile precipitation is 0.150000. The 75th percentile precipitation in June is a little lower than of Decemeber, there is slightly a difference of 0.03 between the 75th percentile of precipitation in December and June.
 
-## *Summary*
-
-CONCLUSION: 
+## *Conclusion* 
 
 The mean temperature for the month of June is 74.94, and the mean temperature for December is 71.04 across all the stations and years in the measurement table. Temperature is higher in the month of June as compared to December. In summer a lot of people enjoy surfing, and they are more likely to eat ice cream with warmer temperatures. It is much warmer in June since the minimum temperature value is 64 and the minimum temperature value in December is 56.
 Also, there is more precipitation in the month of December as compared to June, so we can conclude that there is more precipitation in winter time as compared to summer. After viewing the statistics we can say that the seasons could affect the surf and ice cream shop business. Therefore, surfing business might be slower in winter in contrast to summer in Oahu.
 
-RECOMMENDATIONS FOR FURTHER ANALYSIS.
+## *Recommendations for further analysis*
+
 
 The analysis performed throughout the module only took values for one year (2016-08-23 to 2017-08-23) from the measurement table. If the number of years can be increased and more data can be used, the analysis can be more strong and can be more powerful in decision making. There are many temperature observations and precipitation values that are null in the dataset. It is a good idea to account for those null values for the further analysis.
 
